@@ -1,4 +1,4 @@
-FILES= 1
+FILES= 1 2 3 4 5 6 7
 
 all: $(FILES)
 

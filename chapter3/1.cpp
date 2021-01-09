@@ -2,6 +2,10 @@
 using namespace std;
 int main()
 {
-	cout << "hello word!\n";
+	int h;
+	const int x = 12;
+	cout << "input:_\b";
+	cin >> h;
+	cout << h / x << " " << h % x << "\n";
 	return 0;
 }
